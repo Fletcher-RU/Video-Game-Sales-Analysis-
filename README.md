@@ -1,29 +1,17 @@
 Video Game Sales Analysis Using SQL
 
-This is a video game dataset which shows the sales for the top 1000 ranked video games, including their sales (millions) across the globe.
+This is a video game dataset which shows the sales for over 10000  video games, including their sales (millions) across multiple regions.
 
 Project objective:
 
-Analyze Sales Trends
--  Identify the best-selling games globally and regionally.
--  Determine how sales have changed over the years.
+What are the top 5 best selling games for each locations?
 
-Genre & Platform Insights
--  Find the most popular genres based on total sales.
--  Identify the best-selling platform over time.
+Which region contributes the most to global sales across all games? 
 
-Publisher Performance Analysis
--  Rank publishers by total game sales.
--  Identify which publisher dominates each region.
+How have video game sales changed year over year. 
 
-Regional Sales Comparisons
--  Compare sales performance across NA, EU, JP, and other regions.
--  Identify which region contributes the most to global sales.
+Which platform has the highest global sales
 
-Game-Specific Analysis
--  Find the highest-grossing game for each platform.
--  Identify games that performed well in one region but not in others.
+Which is the top publisher across all individual regions?
 
-Yearly Performance Evaluation
--  Find the best year for video game sales.
--  Determine which genres dominated in specific time periods.
+What Percenatge of global sales does the top 1% of games account for
